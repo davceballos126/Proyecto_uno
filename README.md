@@ -2,7 +2,7 @@
 Configuración de un proyecto en gith
 # 🚀 TaskManager App
 
-> Aplicación web para gestionar tareas de manera simple y eficiente.
+> Primer proyecto en github
 
 ![Estado](https://img.shields.io/badge/status-en%20desarrollo-yellow)
 ![Licencia](https://img.shields.io/badge/license-MIT-blue)
